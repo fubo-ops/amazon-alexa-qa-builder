@@ -1,0 +1,17 @@
+{
+  "target_asin": "B0TEST0001",
+  "competitor_asins": ["B0COMP0001"],
+  "coverage": "test sample",
+  "asins": {
+    "B0TEST0001": {
+      "status": "complete", "stop_reason": "", "completed_queries": [],
+      "reviews": [{"下载ASIN":"B0TEST0001","评论ID":"R1","评论标题":"Stable bowl","评论内容":"The bowl stayed put on my clean tile floor.","评论人":"Tester","评论人链接":"https://example.test/r1","评分":5.0,"评论时间":"2026-01-01"}],
+      "mappings": [{"question_id":"AUTO-001","query":"tile floor","下载ASIN":"B0TEST0001","评论ID":"R1"},{"question_id":"AUTO-002","query":"tile floor","下载ASIN":"B0TEST0001","评论ID":"R1"}]
+    },
+    "B0COMP0001": {
+      "status": "complete", "stop_reason": "", "completed_queries": [],
+      "reviews": [{"下载ASIN":"B0COMP0001","评论ID":"C1","评论标题":"Slides","评论内容":"I needed a bowl that would not slide on tile.","评论人":"Tester","评论人链接":"https://example.test/c1","评分":3.0,"评论时间":"2026-01-01"}],
+      "mappings": [{"question_id":"AUTO-001","query":"stay in place","下载ASIN":"B0COMP0001","评论ID":"C1"}]
+    }
+  }
+}

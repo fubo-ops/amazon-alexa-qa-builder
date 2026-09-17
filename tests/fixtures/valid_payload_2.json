@@ -1,0 +1,166 @@
+{
+  "asin": "B0TEST0002",
+  "site": "US",
+  "seller_sprite_available": false,
+  "max_questions": "unlimited",
+  "rows": [
+    {
+      "记录ID": "RAW-F5B74F210D7D7692ADF1",
+      "目标ASIN": "B0TEST0002",
+      "Amazon站点": "US",
+      "问题候选_EN": "Does it stay in place on tile floors?",
+      "问题候选_CN": "它在瓷砖地面上能保持稳固吗？",
+      "答案候选_EN": "The current target Listing describes a non-slip base.",
+      "答案候选_CN": "当前目标商品Listing描述了防滑底座。",
+      "原始关键词": "dog bowl tile floor",
+      "关键词来源": "Amazon联想词",
+      "来源查询词": "tile floor",
+      "意图初始标签": "功能效果",
+      "卖家精灵指标": "未取得",
+      "来源ASIN": "B0TEST0002",
+      "来源类型": "目标评论",
+      "评论ID": "R1",
+      "评论证据摘录": "The bowl stayed put on my clean tile floor.",
+      "证据归属": "目标商品",
+      "Listing事实依据": "Non-slip base is stated in the current target Listing.",
+      "数据冲突或缺口": "实际地面表现未验证",
+      "采集状态": "已采集",
+      "candidate_id": "AUTO-001",
+      "trace_evidence": [
+        {
+          "kind": "目标评论",
+          "value": "The bowl stayed put on my clean tile floor."
+        }
+      ],
+      "answer_evidence": [
+        {
+          "kind": "product_fact",
+          "source_asin": "B0TEST0002",
+          "field": "bullet_2",
+          "value": "Non-slip base."
+        }
+      ],
+      "review_mapping": {
+        "query": "tile floor",
+        "source_asin": "B0TEST0002",
+        "review_id": "R1"
+      }
+    },
+    {
+      "记录ID": "RAW-82140539B71196F3CA72",
+      "目标ASIN": "B0TEST0002",
+      "Amazon站点": "US",
+      "问题候选_EN": "Does it stay in place on tile floors?",
+      "问题候选_CN": "它在瓷砖地面上能保持稳固吗？",
+      "答案候选_EN": "The current target Listing describes a non-slip base.",
+      "答案候选_CN": "当前目标商品Listing描述了防滑底座。",
+      "原始关键词": "dog bowl tile floor",
+      "关键词来源": "Amazon联想词",
+      "来源查询词": "stay in place",
+      "意图初始标签": "功能效果",
+      "卖家精灵指标": "未取得",
+      "来源ASIN": "B0COMP0002",
+      "来源类型": "竞品评论",
+      "评论ID": "C1",
+      "评论证据摘录": "I needed a bowl that would not slide on tile.",
+      "证据归属": "竞品",
+      "Listing事实依据": "Non-slip base is stated in the current target Listing.",
+      "数据冲突或缺口": "实际地面表现未验证",
+      "采集状态": "已采集",
+      "candidate_id": "AUTO-001",
+      "trace_evidence": [
+        {
+          "kind": "竞品评论",
+          "value": "I needed a bowl that would not slide on tile."
+        }
+      ],
+      "answer_evidence": [
+        {
+          "kind": "product_fact",
+          "source_asin": "B0TEST0002",
+          "field": "bullet_2",
+          "value": "Non-slip base."
+        }
+      ],
+      "review_mapping": {
+        "query": "stay in place",
+        "source_asin": "B0COMP0002",
+        "review_id": "C1"
+      }
+    },
+    {
+      "记录ID": "RAW-6A4E34FC18A47D3E9975",
+      "目标ASIN": "B0TEST0002",
+      "Amazon站点": "US",
+      "问题候选_EN": "Does it stay in place on tile floors?",
+      "问题候选_CN": "它在瓷砖地面上能保持稳固吗？",
+      "答案候选_EN": "The current target Listing describes a non-slip base.",
+      "答案候选_CN": "当前目标商品Listing描述了防滑底座。",
+      "原始关键词": "dog bowl tile floor",
+      "关键词来源": "Amazon联想词",
+      "来源查询词": "tile floor",
+      "意图初始标签": "功能效果",
+      "卖家精灵指标": "未取得",
+      "来源ASIN": "B0TEST0002",
+      "来源类型": "目标评论",
+      "评论ID": "R1",
+      "评论证据摘录": "The bowl stayed put on my clean tile floor.",
+      "证据归属": "目标商品",
+      "Listing事实依据": "Non-slip base is stated in the current target Listing.",
+      "数据冲突或缺口": "重复来源记录必须保留",
+      "采集状态": "已采集",
+      "candidate_id": "AUTO-002",
+      "trace_evidence": [
+        {
+          "kind": "目标评论",
+          "value": "The bowl stayed put on my clean tile floor."
+        }
+      ],
+      "answer_evidence": [
+        {
+          "kind": "product_fact",
+          "source_asin": "B0TEST0002",
+          "field": "bullet_2",
+          "value": "Non-slip base."
+        }
+      ],
+      "review_mapping": {
+        "query": "tile floor",
+        "source_asin": "B0TEST0002",
+        "review_id": "R1"
+      }
+    },
+    {
+      "记录ID": "RAW-796555C61030150D0164",
+      "目标ASIN": "B0TEST0002",
+      "Amazon站点": "US",
+      "问题候选_EN": "Is the material verified as BPA-free?",
+      "问题候选_CN": "该材质是否已验证为不含BPA？",
+      "答案候选_EN": "Not verified from the current product information.",
+      "答案候选_CN": "当前商品资料未验证，建议补充确认。",
+      "原始关键词": "safe ABS material",
+      "关键词来源": "Amazon Listing",
+      "来源查询词": "BPA free",
+      "意图初始标签": "材质与安全",
+      "卖家精灵指标": "未取得",
+      "来源ASIN": "B0TEST0002",
+      "来源类型": "Listing事实",
+      "评论ID": "无",
+      "评论证据摘录": "0条评论证据",
+      "证据归属": "无评论证据",
+      "Listing事实依据": "The Listing says ABS but provides no BPA-free certificate.",
+      "数据冲突或缺口": "BPA-free未验证",
+      "采集状态": "已采集；0条评论证据",
+      "candidate_id": "LIST-001",
+      "trace_evidence": [
+        {
+          "kind": "Listing事实",
+          "value": "safe ABS material"
+        }
+      ],
+      "answer_evidence": [],
+      "review_mapping": {}
+    }
+  ],
+  "max_clean_questions": "unlimited"
+}

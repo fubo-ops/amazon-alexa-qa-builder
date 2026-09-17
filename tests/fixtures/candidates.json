@@ -1,0 +1,85 @@
+{
+  "seller_sprite_available": false,
+  "max_questions": "unlimited",
+  "candidates": [
+    {
+      "candidate_id": "AUTO-001",
+      "question_en": "Does it stay in place on tile floors?",
+      "question_cn": "它在瓷砖地面上能保持稳固吗？",
+      "original_keyword": "dog bowl tile floor",
+      "keyword_source": "Amazon联想词",
+      "query_terms": [
+        "tile floor",
+        "stay in place"
+      ],
+      "intent_initial_label": "功能效果",
+      "seller_sprite_metric": "未取得",
+      "listing_fact_basis": "Non-slip base is stated in the current target Listing.",
+      "answer_en": "The current target Listing describes a non-slip base.",
+      "answer_cn": "当前目标商品Listing描述了防滑底座。",
+      "data_gap": "实际地面表现未验证",
+      "collection_status": "已采集",
+      "answer_evidence": [
+        {
+          "kind": "product_fact",
+          "source_asin": "B0TEST0001",
+          "field": "bullet_2",
+          "value": "Non-slip base."
+        }
+      ],
+      "semantic_key": "stability-tile",
+      "decision_point": "surface stability",
+      "relevance_status": "relevant"
+    },
+    {
+      "candidate_id": "AUTO-002",
+      "question_en": "Does it stay in place on tile floors?",
+      "question_cn": "它在瓷砖地面上能保持稳固吗？",
+      "original_keyword": "dog bowl tile floor",
+      "keyword_source": "Amazon联想词",
+      "query_terms": [
+        "tile floor"
+      ],
+      "intent_initial_label": "功能效果",
+      "seller_sprite_metric": "未取得",
+      "listing_fact_basis": "Non-slip base is stated in the current target Listing.",
+      "answer_en": "The current target Listing describes a non-slip base.",
+      "answer_cn": "当前目标商品Listing描述了防滑底座。",
+      "data_gap": "重复来源记录必须保留",
+      "collection_status": "已采集",
+      "answer_evidence": [
+        {
+          "kind": "product_fact",
+          "source_asin": "B0TEST0001",
+          "field": "bullet_2",
+          "value": "Non-slip base."
+        }
+      ],
+      "semantic_key": "stability-tile",
+      "decision_point": "surface stability",
+      "relevance_status": "relevant"
+    },
+    {
+      "candidate_id": "LIST-001",
+      "question_en": "Is the material verified as BPA-free?",
+      "question_cn": "该材质是否已验证为不含BPA？",
+      "original_keyword": "safe ABS material",
+      "keyword_source": "Amazon Listing",
+      "query_terms": [
+        "BPA free"
+      ],
+      "intent_initial_label": "材质与安全",
+      "seller_sprite_metric": "未取得",
+      "listing_fact_basis": "The Listing says ABS but provides no BPA-free certificate.",
+      "answer_en": "Not verified from the current product information.",
+      "answer_cn": "当前商品资料未验证，建议补充确认。",
+      "data_gap": "BPA-free未验证",
+      "collection_status": "已采集",
+      "answer_evidence": [],
+      "semantic_key": "bpa-free-material",
+      "decision_point": "BPA-free claim",
+      "relevance_status": "relevant"
+    }
+  ],
+  "max_clean_questions": "unlimited"
+}

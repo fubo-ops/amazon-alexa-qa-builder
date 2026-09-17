@@ -1,0 +1,6 @@
+interface:
+  display_name: "Amazon Alexa Q&A Builder"
+  short_description: "Build unlimited raw and cleaned Amazon Q&A Excel pairs"
+  default_prompt: "Use $amazon-alexa-qa-builder to collect and clean Q&A for one or more Amazon ASINs, exporting two Excel files per ASIN."
+policy:
+  allow_implicit_invocation: true
