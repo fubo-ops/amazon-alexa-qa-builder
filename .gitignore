@@ -7,3 +7,23 @@ tests/.tmp/
 outputs/
 *.xlsx
 *.inspect.ndjson
+
+# Local packaging, runtime inputs and browser state
+venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.runtime/
+profiles/
+.amazon-review-collector/
+playwright-report/
+test-results/
+*.har
+trace.zip
+storage_state*.json
+targeted_checkpoint.json
+*.log
+.DS_Store
